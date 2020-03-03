@@ -1,0 +1,15 @@
+SMAP
+ajaxnew_jsp.java
+JSP
+*S JSP
+*F
++ 0 ajaxnew.jsp
+ajaxnew.jsp
+*L
+5,42:48
+47,9:91
+55:100
+56:101,6
+57:107,3
+58,16:110
+*E
